@@ -82,4 +82,4 @@ def gen_tex_file(tex_doc, filename="example.tex", overwrite_handler=None):
 if __name__ == "__main__":
     content = load(open("_config.yaml", "r"))
     #gen_tex_file(get_tex_doc(config=content), filename="long_full_2018.tex")
-    gen_tex_file(get_tex_doc(config=content), filename="long_intern_2019.tex")
+    #gen_tex_file(get_tex_doc(config=content), filename="long_intern_2019.tex")
