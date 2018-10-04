@@ -1,0 +1,13 @@
+\section{Intern Experience}
+\vspace{-4pt}
+{% for exp in cv.experience %}
+{\setlength{\parskip}{0pt}
+{\bf {{ exp.institution.name }}{{"}"}}, {{ exp.institution.address }} \hfill {{ exp.duration }}\break
+{\hspace*{1em} {{ exp.role }} \hfill {% if exp.mentor %}Mentor: {{ exp.mentor }}{% endif %}\break}
+{% if exp.achievements %}{% for achievement in exp.achievements %}{\hspace*{1em} {{ achievement }}\break}
+}{% endfor %}{% endif %}
+{% if loop.last == false %}
+\sspace
+
+{% endif %}
+{% endfor %}

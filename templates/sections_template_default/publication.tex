@@ -1,0 +1,13 @@
+\section{Selected Publications {% if cv.publication.full.url %}[\href{{"{"}}{{ cv.publication.full.url }}{{"}"}}{{"{"}}{{ cv.publication.full.name }}{{"}"}}]{% endif %}{{"}"}}
+\vspace{-4pt}
+\vspace*{2pt}
+\begin{enumerate}[
+  label=\arabic*. ,
+  labelwidth=\widthof{1. },
+  leftmargin=\widthof{1.\enspace}
+  ] \itemsep -2pt % reduce space between items
+  {% for pub_key in cv.publication.cite_key %}
+  \item \bibentry{{"{"}}{{ pub_key }}{{"}"}}
+  {% endfor %}
+\end{enumerate}
+\vspace*{2pt}

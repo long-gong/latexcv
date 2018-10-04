@@ -1,0 +1,13 @@
+\section{Selected Talks}
+\vspace{-4pt}
+\vspace*{2pt}
+\begin{enumerate}[
+  label=\arabic*. ,
+  labelwidth=\widthof{1. },
+  leftmargin=\widthof{1.\enspace}
+  ] \itemsep -2pt % reduce space between items
+  {% for talk in cv.talk %}
+  \item  {{ talk.title }}, {{ talk.where }}
+  {% endfor %}
+\end{enumerate}
+\vspace*{2pt}

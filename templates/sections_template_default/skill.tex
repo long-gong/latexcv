@@ -1,0 +1,6 @@
+\section{Professional Skills}
+\vspace{-4pt}
+\setlength{\parskip}{0pt}
+{% for sk in cv.skill %}
+{\sl {{ sk.description }}:} {% for each_sk in sk.details %}\textsc{{"{"}}{{ each_sk.name }}{{"}"}} ({{ each_sk.proficiency }}){% if loop.last == false %}, {% endif %}{% endfor %}\\
+{% endfor %}
