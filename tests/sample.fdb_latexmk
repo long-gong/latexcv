@@ -1,0 +1,13 @@
+# Fdb version 3
+["latex"] 1544852379 "sample.tex" "sample.dvi" "sample" 1544852696
+  "/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls" 1523050425 19823 fcbc01552b07b608574cbf8e1977e0c0 ""
+  "/usr/local/texlive/2018/texmf-dist/tex/latex/base/size10.clo" 1523050425 8294 b0f177401f895563eb19304d2389582d ""
+  "/usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf" 1522066949 33362 cf75436e19743e94a92a6b1b9183c434 ""
+  "/usr/local/texlive/2018/texmf-var/web2c/pdftex/latex.fmt" 1543778852 4222432 1c416c4cc96df1728fbf324aaaa6b9d6 ""
+  "/usr/local/texlive/2018/texmf.cnf" 1543778827 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
+  "sample.aux" 1544852696 8 a94a2480d3289e625eea47cd1b285758 ""
+  "sample.tex" 1544851723 83 3756f594054883cd69f90b66b232c272 ""
+  (generated)
+  "sample.aux"
+  "sample.dvi"
+  "sample.log"

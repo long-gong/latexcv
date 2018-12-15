@@ -1,0 +1,152 @@
+\begin{thebibliography}{10}
+
+\bibitem{JiangGongZuqing2014}
+Huihui Jiang, {\bf Long Gong}, and Zuqing Zhu.
+\newblock Efficient joint approaches for location-constrained survivable
+  virtual network embedding.
+\newblock In {\em IEEE Global Communications Conference (GLOBECOM)}, pages
+  1810--1815, Dec. 2014.
+
+\bibitem{JiangWangGongEtAl2015}
+Huihui Jiang, Yixiang Wang, {\bf Long Gong}, and Zuqing Zhu.
+\newblock Availability-aware survivable virtual network embedding in optical
+  datacenter networks.
+\newblock {\em IEEE/OSA Journal of Optical Communications and Networking},
+  7(12):1160--1171, Dec. 2015.
+
+\bibitem{LiuGongZhu2013a}
+Xiahe Liu, {\bf Long Gong}, and Zuqing Zhu.
+\newblock Design integrated rsa for multicast in elastic optical networks with
+  a layered approach.
+\newblock In {\em IEEE Global Communications Conference (GLOBECOM)}, pages
+  2346--2351, Dec. 2013.
+
+\bibitem{LiuGongZhu2013}
+Xiahe Liu, {\bf Long Gong}, and Zuqing Zhu.
+\newblock On the spectrum-efficient overlay multicast in elastic optical
+  networks built with multicast-incapable switches.
+\newblock {\em IEEE Communications Letters}, 17(9):1860--1863, Sept. 2013.
+
+\bibitem{LiuGongZhu2013b}
+Xiahe Liu, {\bf Long Gong}, and Zuqing Zhu.
+\newblock Spectrum- and energy-efficient multicasting over multicast-incapable
+  eons with member-only flexible relay.
+\newblock In {\em Asia Communications and Photonics Conference (ACP)}, page
+  AW4H.6. Optical Society of America, 2013.
+
+\bibitem{GongHuangTuneEtAl2017}
+{\bf Long Gong}, Lanxi Huang, Paul Tune, Jinyoung Han, Chen-Nee Chuah, Matthew
+  Roughan, and Jun Xu.
+\newblock Foreststream: Accurate measurement of cascades in online social
+  networks.
+\newblock {\bf accepted to} ICCCN 2017, 2017.
+
+\bibitem{GongJiangWangEtAl2016}
+{\bf Long Gong}, Huihui Jiang, Yixiang Wang, and Zuqing Zhu.
+\newblock {Novel Location-Constrained Virtual Network Embedding (LC-VNE)
+  Algorithms Towards Integrated Node and Link Mapping}.
+\newblock {\em IEEE/ACM Transactions on Networking}, 24(6):3648--3661, Dec.
+  2016.
+
+\bibitem{GongTuneLiuEtAl2017}
+{\bf Long Gong}, Paul Tune, Liang Liu, Sen Yang, and Jun~(Jim) Xu.
+\newblock Queue-proportional sampling: A better approach to crossbar scheduling
+  for input-queued switches.
+\newblock {\em Proc. ACM Meas. Anal. Comput. Syst.}, 1(1):3:1--3:33, June 2017.
+
+\bibitem{GongWenZhuEtAl2013}
+{\bf Long Gong}, Yonggang Wen, Zuqing Zhu, and Tony Lee.
+\newblock Revenue-driven virtual network embedding based on global resource
+  information.
+\newblock In {\em IEEE Global Communications Conference (GLOBECOM)}, pages
+  2294--2299, Dec. 2013.
+
+\bibitem{GongWenZhuEtAl2014}
+{\bf Long Gong}, Yonggang Wen, Zuqing Zhu, and Tony Lee.
+\newblock {Toward Profit-Seeking Virtual Network Embedding Algorithm via Global
+  Resource Capacity}.
+\newblock In {\em IEEE International Conference on Computer Communications
+  (INFOCOM)}, pages 1--9, Apr. 2014.
+
+\bibitem{GongZhaoWenEtAl2013}
+{\bf Long Gong}, Wenwen Zhao, Yonggang Wen, and Zuqing Zhu.
+\newblock Dynamic transparent virtual network embedding over elastic optical
+  infrastructures.
+\newblock In {\em IEEE International Conference on Communications (ICC)}, pages
+  3466--3470, Jun. 2013.
+
+\bibitem{GongZhouLiuEtAl2013}
+{\bf Long Gong}, Xiang Zhou, Xiahe Liu, Wenwen Zhao, Wei Lu, and Zuqing Zhu.
+\newblock Efficient resource allocation for all-optical multicasting over
+  spectrum-sliced elastic optical networks.
+\newblock {\em IEEE/OSA Journal of Optical Communications and Networking},
+  5(8):836--847, Aug. 2013.
+
+\bibitem{GongZhouLuEtAl2012}
+{\bf Long Gong}, Xiang Zhou, Wei Lu, and Zuqing Zhu.
+\newblock A two-population based evolutionary approach for optimizing routing,
+  modulation and spectrum assignments (rmsa) in o-ofdm networks.
+\newblock {\em IEEE Communications Letters}, 16(9):1520--1523, Sept. 2012.
+
+\bibitem{GongZhu2014}
+{\bf Long Gong} and Zuqing Zhu.
+\newblock {Virtual Optical Network Embedding (VONE) Over Elastic Optical
+  Networks}.
+\newblock {\em Journal of Lightwave Technology}, 32(3):450--460, Feb. 2014.
+
+\bibitem{LuZhouGongEtAl2013}
+Wei Lu, Xiang Zhou, {\bf Long Gong}, Mingyang Zhang, and Zuqing Zhu.
+\newblock Dynamic multi-path service provisioning under differential delay
+  constraint in elastic optical networks.
+\newblock {\em IEEE Communications Letters}, 17(1):158--161, Jan. 2013.
+
+\bibitem{LuZhouGongEtAl2012}
+Wei Lu, Xiang Zhou, {\bf Long Gong}, and Zuqing Zhu.
+\newblock Scalable network planning for elastic optical orthogonal frequency
+  division multiplexing (ofdm) networks.
+\newblock In {\em 8th International Symposium on Communication Systems,
+  Networks Digital Signal Processing (CSNDSP)}, pages 1--4, Jul. 2012.
+
+\bibitem{YangGongZhouEtAl2015}
+Lulu Yang, {\bf Long Gong}, Fen Zhou, Bernard Cousin, Mikl\'os Moln\'ar, and
+  Zuqing Zhu.
+\newblock Leveraging light forest with rateless network coding to design
+  efficient all-optical multicast schemes for elastic optical networks.
+\newblock {\em Journal of Lightwave Technology}, 33(18):3945--3955, Sept. 2015.
+
+\bibitem{YangGongZhu2016}
+Lulu Yang, {\bf Long Gong}, and Zuqing Zhu.
+\newblock Incorporating network coding to formulate multicast sessions in
+  elastic optical networks.
+\newblock In {\em 2016 International Conference on Computing, Networking and
+  Communications (ICNC)}, pages 1--5, Feb. 2016.
+
+\bibitem{YaoLuGongEtAl2015}
+Jingjing Yao, Ping Lu, {\bf Long Gong}, and Zuqing Zhu.
+\newblock {On Fast and Coordinated Data Backup in Geo-Distributed Optical
+  Inter-Datacenter Networks}.
+\newblock {\em Journal of Lightwave Technology}, 33(14):3005--3015, Jul. 2015.
+
+\bibitem{ZhangShiGongEtAl2013}
+Mingyang Zhang, Weiran Shi, {\bf Long Gong}, Wei Lu, and Zuqing Zhu.
+\newblock Bandwidth defragmentation in dynamic elastic optical networks with
+  minimum traffic disruptions.
+\newblock In {\em IEEE International Conference on Communications (ICC)}, pages
+  3894--3898, Jun. 2013.
+
+\bibitem{ZhouLuGongEtAl2012}
+Xiang Zhou, Wei Lu, {\bf Long Gong}, and Zuqing Zhu.
+\newblock Dynamic rmsa in elastic optical networks with an adaptive genetic
+  algorithm.
+\newblock In {\em IEEE Global Communications Conference (GLOBECOM)}, pages
+  2912--2917, Dec. 2012.
+
+\bibitem{ZhuLiuWangEtAl2016}
+Zuqing Zhu, Xiahe Liu, Yixiang Wang, Wei Lu, {\bf Long Gong}, Shui Yu, and
+  Nirwan Ansari.
+\newblock Impairment- and splitting-aware cloud-ready multicast provisioning in
+  elastic optical networks.
+\newblock {\em IEEE/ACM Transactions on Networking}, 25(2):1220--1234, Apr.
+  2017.
+
+\end{thebibliography}
