@@ -70,11 +70,11 @@ project:
   - name: Network Virtualization
     duration: 2012.2 - 2015.6
     selected_contributions:
-      - "Proposed the {\\bf first} integer linear programming formulations for the virtual optical network embedding problems in the contexts of flexible-grid elastic optical networks, and designed efficient algorithms which achieved much better performance. (Journal of Lightwave Technology)"
+      - "Proved the {\\bf first} inapproximability result of the location-constrained virtual network embedding (LC-VNE) problems, and designed efficient algorithms for solving LC-VNE which have much better performance (in terms of both resource consumption and fairness) than existing ones. (IEEE/ACM Transactions on Networking)"
       - "Built the {\\bf first} OpenFlow-based network virtualization platform in which the underlying infrastructure is the flexible-grid elastic optical networks. (Master Thesis)"
     other_contributions:
+      - "Proposed the {\\bf first} integer linear programming formulations for the virtual optical network embedding problems in the contexts of flexible-grid elastic optical networks, and designed efficient algorithms which achieved much better performance. (Journal of Lightwave Technology)"
       - "Designed a novel virtual network embedding algorithm, which increased the network utilization and decreased the time complexity. (INFOCOM 2014)"
-      - "Proved the {\\bf first} inapproximability result of the location-constrained virtual network embedding (LC-VNE) problems, and designed efficient algorithms for solving LC-VNE, which achieved much better performance (in terms of both resource consumption and fairness). (IEEE/ACM Transactions on Networking)"
 
 
 # Publication

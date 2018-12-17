@@ -1,6 +1,0 @@
-\section{Professional Service}
-\vspace{-4pt}
-\setlength{\parskip}{0pt}
-{% for service in cv.service %}
-{\sl {{ service.type }}:} {% for where in service.where %}\textsc{{"{"}}{{ where }}{{"}"}}{% if loop.last == false %}, {% endif %}{% endfor %}\\
-{% endfor %}

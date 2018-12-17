@@ -2,7 +2,74 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f82bd4b-253b-43de-a1d7-5e82760b39ee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CVs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-test/bib/long_gong_pub.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-test/bib/long_gong_pub.bib.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-test/includes/bibstyle/IEEEtran.bst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-test/includes/bibstyle/IEEEtranN.bst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-test/includes/bibstyle/IEEEtranS.bst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-test/includes/bibstyle/IEEEtranSA.bst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-test/includes/bibstyle/IEEEtranSN.bst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-test/includes/cls/myRes.cls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-test/includes/macros/customized_commands.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-test/includes/macros/layout.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-test/includes/macros/layout_multiple_pages.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-test/includes/macros/packages.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-test/long_full_2019.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-test/long_full_2019.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-test/long_intern_2019.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build-test/long_intern_2019.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/.latexrun.db.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/data/long_gong_pub.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/data/long_gong_pub.bib.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/long_full_2018.aux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/long_full_2018.bbl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/long_full_2018.blg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/long_full_2018.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/long_full_2018.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/long_full_2018.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/long_full_2018.synctex.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/long_full_2018.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sample_text.aux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sample_text.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sample_text.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sample_text.synctex.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/sample_text.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/long_gong_pub.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/long_gong_pub.bib.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy_cv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/bibstyle/IEEEtran.bst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/bibstyle/IEEEtranN.bst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/bibstyle/IEEEtranS.bst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/bibstyle/IEEEtranSA.bst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/bibstyle/IEEEtranSN.bst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/cls/myRes.cls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/macros/customized_commands.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/macros/layout.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/macros/packages.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/latexrun/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/latexrun/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/latexrun/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/latexrun/latexrun.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list_bib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/default/cv_multi.tex" beforeDir="false" afterPath="$PROJECT_DIR$/templates/default/cv_multi.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/default/cv_single.tex" beforeDir="false" afterPath="$PROJECT_DIR$/templates/default/cv_single.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/default/includes/macros/layout.tex" beforeDir="false" afterPath="$PROJECT_DIR$/templates/default/includes/macros/layout.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/default/includes/macros/layout_multiple_pages.tex" beforeDir="false" afterPath="$PROJECT_DIR$/templates/default/includes/macros/layout_multiple_pages.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/sample.aux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/sample.dvi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/sample.fdb_latexmk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/sample.fls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/sample.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/sample.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/sample.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_exec_externals.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +82,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/utility.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
+            <state relative-caret-position="3388">
               <caret line="160" column="36" selection-start-line="160" selection-start-column="36" selection-end-line="160" selection-end-column="36" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
@@ -27,7 +94,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/latexcv.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1416">
+            <state relative-caret-position="22">
               <caret line="220" column="26" selection-start-line="220" selection-start-column="26" selection-end-line="220" selection-end-column="26" />
               <folding>
                 <element signature="e#23#60#0" expanded="true" />
@@ -36,29 +103,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_config.yaml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="68" column="206" selection-start-line="68" selection-start-column="206" selection-end-line="68" selection-end-column="206" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/default/sections/project.tex">
+        <entry file="file://$PROJECT_DIR$/templates/default/includes/macros/layout.tex">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="8" selection-end-line="15" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/sections_template_default/cv.tex">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="50" column="22" selection-end-line="100" />
+            <state>
+              <caret column="21" selection-start-column="21" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#21#2" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -66,8 +118,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/default/cv_single.tex">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+            <state relative-caret-position="432">
+              <caret line="45" column="5" selection-start-line="44" selection-end-line="45" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -80,13 +132,51 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/default/cv_multi.tex">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="57" column="24" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="24" />
+            <state relative-caret-position="1958">
+              <caret line="89" column="11" selection-start-line="89" selection-start-column="11" selection-end-line="89" selection-end-column="11" />
               <folding>
                 <element signature="e#313#334#2" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/default/includes/macros/layout_multiple_pages.tex">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#21#2" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-844">
+                <caret line="5" column="201" selection-start-line="5" selection-start-column="201" selection-end-line="5" selection-end-column="201" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tests/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -109,15 +199,18 @@
         <option value="$PROJECT_DIR$/tests/test_exec_externals.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/exec_externals.py" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/utility.py" />
         <option value="$PROJECT_DIR$/templates/default/sections/project.tex" />
         <option value="$PROJECT_DIR$/templates/default/sections/projects_full.tex" />
         <option value="$PROJECT_DIR$/templates/default/sections/projects_selected.tex" />
-        <option value="$PROJECT_DIR$/templates/default/cv_multi.tex" />
-        <option value="$PROJECT_DIR$/templates/default/cv_single.tex" />
         <option value="$PROJECT_DIR$/latexcv.py" />
         <option value="$PROJECT_DIR$/_config.yaml" />
+        <option value="$PROJECT_DIR$/templates/default/cv_single.tex" />
+        <option value="$PROJECT_DIR$/templates/default/includes/macros/layout.tex" />
+        <option value="$PROJECT_DIR$/templates/default/cv_multi.tex" />
+        <option value="$PROJECT_DIR$/templates/default/includes/macros/layout_multiple_pages.tex" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -127,7 +220,7 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
@@ -142,6 +235,16 @@
             <path>
               <item name="personal-resume" type="b2602c69:ProjectViewProjectNode" />
               <item name="personal-resume" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal-resume" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal-resume" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="personal-resume" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal-resume" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -218,9 +321,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-2" width="1920" height="1037" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18036287" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18249734" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -249,9 +351,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/test_exec_externals.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -276,13 +375,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/includes/macros/layout.tex">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -293,39 +385,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/default/data/long_gong_pub.bib">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/default/sections/education.tex">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/sections_template_default/cv.tex">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="50" column="22" selection-end-line="100" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/default/data/long_gong_pub.bib" />
     <entry file="file://$PROJECT_DIR$/build-test/long_full_2019.tex">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/build-test/long_intern_2019.tex">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/default/sections/projects_full.tex" />
+    <entry file="file://$PROJECT_DIR$/templates/default/sections/projects_selected.tex" />
     <entry file="file://$PROJECT_DIR$/utility.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
+        <state relative-caret-position="3388">
           <caret line="160" column="36" selection-start-line="160" selection-start-column="36" selection-end-line="160" selection-end-column="36" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/default/sections/projects_full.tex">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" lean-forward="true" selection-end-line="25" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -336,33 +408,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/default/sections/projects_selected.tex">
+    <entry file="file://$PROJECT_DIR$/templates/sections_template_default/cv.tex">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        <state relative-caret-position="1100">
+          <caret line="50" column="22" selection-end-line="100" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/default/cv_multi.tex">
+    <entry file="file://$PROJECT_DIR$/_config.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="57" column="24" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="24" />
-          <folding>
-            <element signature="e#313#334#2" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/default/cv_single.tex">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+        <state relative-caret-position="1584">
+          <caret line="76" column="142" selection-start-line="76" selection-start-column="142" selection-end-line="76" selection-end-column="142" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/latexcv.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1416">
+        <state relative-caret-position="22">
           <caret line="220" column="26" selection-start-line="220" selection-start-column="26" selection-end-line="220" selection-end-column="26" />
           <folding>
             <element signature="e#23#60#0" expanded="true" />
@@ -370,12 +432,78 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yaml">
+    <entry file="file://$PROJECT_DIR$/build-test/long_intern_2019.tex">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/default/sections/education.tex">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/default/cv_single.tex">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="68" column="206" selection-start-line="68" selection-start-column="206" selection-end-line="68" selection-end-column="206" />
+        <state relative-caret-position="432">
+          <caret line="45" column="5" selection-start-line="44" selection-end-line="45" selection-end-column="9" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/history_versions/2019/long_intern_2019.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="105" column="4" lean-forward="true" selection-start-line="105" selection-end-line="106" selection-end-column="9" />
+          <folding>
+            <element signature="e#426#447#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/default/cv_multi.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1958">
+          <caret line="89" column="11" selection-start-line="89" selection-start-column="11" selection-end-line="89" selection-end-column="11" />
+          <folding>
+            <element signature="e#313#334#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/default/includes/macros/layout.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#21#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/default/includes/macros/layout_multiple_pages.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#21#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-844">
+            <caret line="5" column="201" selection-start-line="5" selection-start-column="201" selection-end-line="5" selection-end-column="201" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
