@@ -53,15 +53,6 @@ def split_filename(filename_or_path):
         return filename, path
 
 
-_ST3_BUILD_VARS_MAP = {
-    '$file': '{file}',
-    '$file_path': '{file_path}',
-    '$file_base_name': '{file_base_name}',
-    '$file_extension': '{file_extension}'
-
-}
-
-
 class LaTeXCVMaker:
     """A simple class for making CV."""
 
@@ -91,8 +82,6 @@ class LaTeXCVMaker:
         self.kwargs = kwargs
 
         self.build_cmds = []
-
-    def __process_b
 
     def __do_preparations(self):
         # make build directory a absolute path
@@ -152,8 +141,9 @@ class LaTeXCVMaker:
             print("We assume that you have already copied tem manually")
 
         # prepare build commands
-        if 'build_cmd' in self.kwargs:
-            self.build_cmds.append(shlex.split(self.kwargs['build_cmd']))
+        if 'build_cmds' in self.kwargs and (self.kwargs['build_cmds'] is not None):
+            self.build_cmds = self.kwargs['build_cmds']
+            # self.build_cmds = [shlex.split(s) for s in self.build_cmds]
         else:
             if self.verbose:
                 print("Since you did not provide custom build command, the default one will be used!")
@@ -217,16 +207,25 @@ class LaTeXCVMaker:
         tex_file = os.path.join(self.build_dir, tex_file).replace('\\', '/')
         if self.verbose:
             print("Compiling `{0}`".format(tex_file))
-        for cmd in self.build_cmds:
-            cmd_ = ExternalCommandWrapper(cmd=cmd[0], cmd_args=cmd[1:] + [tex_file], cwd=self.build_dir,
-                                          verbose=self.verbose)
-            cmd_.run()
+        if ('build_cmds' not in self.kwargs) or (self.kwargs['build_cmds'] is None):
+            for cmd in self.build_cmds:
+                cmd_ = ExternalCommandWrapper(cmd=cmd[0], cmd_args=cmd[1:] + [tex_file], cwd=self.build_dir,
+                                              verbose=self.verbose)
+                cmd_.run()
+        else:
+            build_cmds = [(s.replace('$file', '"' + tex_file + '"')) for s in self.build_cmds]
+            build_cmds = [shlex.split(s) for s in build_cmds]
+            for cmd in build_cmds:
+                cmd_ = ExternalCommandWrapper(cmd=cmd[0], cmd_args=cmd[1:], cwd=self.build_dir,
+                                              verbose=self.verbose)
+                cmd_.run()
 
     def make_all(self):
         self.make_tex()
-        self.__make_pdf()
-        if self.delete_temp:
-            self.__delete_temporary()
+        if not self.only_tex:
+            self.__make_pdf()
+            if self.delete_temp:
+                self.__delete_temporary()
 
     def make(self):
         self.make_all()
