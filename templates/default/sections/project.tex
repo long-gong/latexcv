@@ -1,0 +1,16 @@
+\section{Projects}
+\vspace{-4pt}
+{% for proj in cv.project %}
+{\setlength{\parskip}{0pt}
+{\bf {{ proj.name }}{{"}"}} \hfill {{ proj.duration }}\break
+{% if proj.contributions %}
+{% for contribution in proj.contributions %}
+{\hspace*{1em} $\bullet$ {{ contribution }}\hfill\break}
+{% endfor %}
+{% endif %}
+{% if loop.last == false %}
+\sspace
+
+{% endif %}
+}
+{% endfor %}

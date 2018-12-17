@@ -1,0 +1,36 @@
+%-----------------------------------------------------------
+%Custom commands
+\newcommand{\resitem}[1]{\item #1 \vspace{-4pt}}
+
+
+\newcommand{\resheading}[1]{\vspace{8pt}
+  \parbox{\textwidth}{\setlength{\FrameSep}{\outerbordwidth}
+    \begin{shaded}
+\setlength{\fboxsep}{0pt}\framebox[\textwidth][l]{\setlength{\fboxsep}{4pt}\fcolorbox{shadecolorB}{shadecolorB}{\textbf{\sffamily{\mbox{~}\makebox[6.762in][l]{\large \uppercase{#1}} \vphantom{p\^{E}}}}}}
+    \end{shaded}
+  }\vspace{-5pt}
+}
+
+\newcommand{\ressubheading}[4]{
+\begin{tabular*}{7.0in}{l@{\cftdotfill{\cftsecdotsep}\extracolsep{\fill}}r}
+    {\textbf{#1}} & {\textbf{#2}} \\
+    {\textbf{#3}} & {\textit{#4}}
+\end{tabular*}\vspace{-6pt}}
+%-----------------------------------------------------------
+
+% \newcommand{\MyName}[2]{
+%         \Huge \usefont{OT1}{phv}{b}{n} #1 \hfill \large \usefont{OT1}{phv}{m}{n} \textit{#2}% Name
+%         \par \normalsize \normalfont}
+
+\newcommand{\MyName}[2]{
+        \Huge \usefont{OT1}{phv}{b}{n} #1 \hfill \small \usefont{OT1}{phv}{m}{n} #2% Name
+        \par \normalsize \normalfont}
+
+\newcommand{\MySlogan}[1]{
+        \large \usefont{OT1}{phv}{m}{n} \textit{#1}\hfill % Slogan (optional)
+        \par \normalsize \normalfont}
+
+\newsectionwidth{0cm}
+
+\newcommand{\sspace}{\vspace*{-8pt}}
+\newcommand{\negspace}{\vspace*{-28pt}}

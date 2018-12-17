@@ -3,7 +3,7 @@ import unittest
 import sys
 # Add the ptdraft folder path to the sys.path list
 sys.path.append('..')
-import exec_externals as ee
+import utility as ee
 
 
 class TestExecExternalCommandWrapper(unittest.TestCase):

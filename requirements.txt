@@ -1,3 +1,5 @@
+six
 bibtexparser
 jinja2
 PyYAML
+Send2Trash

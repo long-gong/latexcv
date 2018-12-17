@@ -1,0 +1,46 @@
+% LaTeX resume using res.cls
+\documentclass[line,11pt,letter]{{"{"}}includes/cls/myRes{{"}"}}
+
+%% input all macros files
+\input{{"{"}}includes/macros/packages.tex{{"}"}}
+\input{{"{"}}includes/macros/customized_commands.tex{{"}"}}
+\input{{"{"}}includes/macros/layout.tex{{"}"}}
+
+
+\begin{document}
+
+%% personal information
+{% include "personal_info.tex" %}
+
+\begin{resume}
+
+%% objective
+{% if cv.objective %}
+{% include "objective.tex" %}
+{% endif %}
+%%
+%% education
+{% if cv.education %}
+\negspace
+{% include "education.tex" %}
+\negspace
+{% endif %}
+%%
+%% experience
+{% if cv.experience %}
+{% include "experience.tex" %}
+\negspace
+{% endif %}
+%%
+%% project
+{% if cv.project %}
+{% include "project_selected.tex" %}
+\negspace
+{% endif %}
+%% skills
+{% if cv.skill %}
+{% include "skill.tex" %}
+{% endif %}
+\end{resume}
+
+\end{document}
