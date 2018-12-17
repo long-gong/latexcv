@@ -89,6 +89,11 @@ The built-in build system is [`latexrun`](https://github.com/aclements/latexrun)
 As mentioned in the usage of `LaTeXCV`, besides the built-in build system, `LaTeXCV` is trying to support custom LaTeX build systems. The syntax for writing the build system mimics that of [Sublime Text](https://www.sublimetext.com/). For example, you can use build commans like `pdflatex -synctex=1 -interaction=nonstopmode $file`. Currently, we only support the variable `$file`, and in the future we will add the supports for all necessary variables (Maybe still a subset of [build-system-variables](http://docs.sublimetext.info/en/latest/reference/build_systems/configuration.html#build-system-variables)).
 
 
+## Known Issues
+
++ The built-in LaTeX build system failed to work on Windows.
+
+
 
 
 
