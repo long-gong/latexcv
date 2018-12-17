@@ -10,7 +10,7 @@ me:
 objective:
   description: >-
     Internship position in the field of networking (with special interest in software defined networking and data center networking), scheduling in switches, and software engineering.
-  term: Summer and Fall 2018
+  term: Summer 2019
 
 # Education Background
 education:
@@ -44,7 +44,7 @@ experience:
     role: Intern
     mentor: Gang Cheng
     achievements:
-      - "Built a highly scalable multi-tenant BGP as an important part of a high-performance and high-availability SDN based hybrid cloud network solution."
+      - "Built a highly scalable multi-tenant BGP tool as an important component of a high-performance and high-\\hfill\\break availability SDN based hybrid cloud network solution."
   - institution: 
       name: "AT\\&T Labs Research"
       address: Bedminster, NJ, USA
@@ -52,16 +52,16 @@ experience:
     role: Research Intern
     mentor: He Yan and Zihui Ge
     achievements:
-      - "Developed tools to automate the dynamics analysis in services supported by virtualized environment."
+      - "Developed tools to automate the dynamics analysis in services provided by virtualized network functions."
 
 # Projects
 project:
   - name: Crossbar Scheduling 
     duration: 2016.2 - Present
     contributions:
-      - "Designed the {\\bf first} parallel iterative crossbar scheduling which has constant per-port time complexity and can provably achieve the same performance (both throughput and delay) as the family of maximal matching based schedulers that have at least logarithmic per-port time complexity." 
-      - "Designed a crossbar scheduling algorithm, which can exactly emulate the linear-time centralized version ({\\it i.e.,} SERENA) in logarithmic rounds. (IEEE/ACM Transactions on Networking under submission)" 
-      - "Designed a simple yet effective ``add-on'' crossbar scheduling algorithm for input-queued switches, which can boost the performance (switch throughput or delay or both) of existing crossbar scheduling algorithms ({\\it e.g.}, iSLIP and SERENA) with almost ``no'' computational overhead. (SIGMETRICS 2017)"
+      - "Designed the {\\bf first} parallel iterative crossbar scheduling algorithm which has constant per-port time complexity and can provably achieve the same performance (both throughput and delay) guarantees as the family of maximal matching based schedulers that have at least logarithmic per-port time complexity."
+      - "Designed a crossbar scheduling algorithm that can exactly emulate the linear-time centralized counterpart ({\\it i.e.,} SERENA) in logarithmic rounds. (IEEE/ACM Transactions on Networking under submission)"
+      - "Designed a simple yet effective ``add-on'' crossbar scheduling algorithm for input-queued switches, which can boost the performance (throughput or delay or both) of existing crossbar scheduling algorithms ({\\it e.g.}, iSLIP and SERENA) with almost ``no'' computational overhead. (SIGMETRICS 2017)"
       - "Built an efficient and flexible input-queued switch simulator in C++." 
   - name: Time Capsule for Online Social Activities
     duration: 2015.9 - Present

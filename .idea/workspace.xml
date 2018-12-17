@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f82bd4b-253b-43de-a1d7-5e82760b39ee" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/latexcv.py" beforeDir="false" afterPath="$PROJECT_DIR$/latexcv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yaml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,11 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/latexcv.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1416">
-              <caret line="220" column="26" lean-forward="true" selection-start-line="220" selection-start-column="26" selection-end-line="220" selection-end-column="26" />
+              <caret line="220" column="26" selection-start-line="220" selection-start-column="26" selection-end-line="220" selection-end-column="26" />
               <folding>
                 <element signature="e#23#60#0" expanded="true" />
               </folding>
@@ -36,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="78" selection-start-line="78" selection-end-line="78" />
+            <state relative-caret-position="352">
+              <caret line="68" column="206" selection-start-line="68" selection-start-column="206" selection-end-line="68" selection-end-column="206" />
             </state>
           </provider>
         </entry>
@@ -111,13 +111,13 @@
         <option value="$PROJECT_DIR$/exec_externals.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/utility.py" />
-        <option value="$PROJECT_DIR$/_config.yaml" />
         <option value="$PROJECT_DIR$/templates/default/sections/project.tex" />
         <option value="$PROJECT_DIR$/templates/default/sections/projects_full.tex" />
         <option value="$PROJECT_DIR$/templates/default/sections/projects_selected.tex" />
         <option value="$PROJECT_DIR$/templates/default/cv_multi.tex" />
         <option value="$PROJECT_DIR$/templates/default/cv_single.tex" />
         <option value="$PROJECT_DIR$/latexcv.py" />
+        <option value="$PROJECT_DIR$/_config.yaml" />
       </list>
     </option>
   </component>
@@ -220,7 +220,7 @@
     <frame x="1920" y="-2" width="1920" height="1037" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18036287" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18036287" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -231,7 +231,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.24889868" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.24889868" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32998884" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -322,13 +322,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="78" selection-start-line="78" selection-end-line="78" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/default/sections/projects_full.tex">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
@@ -370,10 +363,17 @@
     <entry file="file://$PROJECT_DIR$/latexcv.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1416">
-          <caret line="220" column="26" lean-forward="true" selection-start-line="220" selection-start-column="26" selection-end-line="220" selection-end-column="26" />
+          <caret line="220" column="26" selection-start-line="220" selection-start-column="26" selection-end-line="220" selection-end-column="26" />
           <folding>
             <element signature="e#23#60#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="68" column="206" selection-start-line="68" selection-start-column="206" selection-end-line="68" selection-end-column="206" />
         </state>
       </provider>
     </entry>
